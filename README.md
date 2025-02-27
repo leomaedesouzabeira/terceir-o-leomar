@@ -1,2 +1,1 @@
-# terceir-o-leomar
-html, css
+# projeto-1-trimestre
